@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my repository of things I have yet to do
 ---
 
 To do:
